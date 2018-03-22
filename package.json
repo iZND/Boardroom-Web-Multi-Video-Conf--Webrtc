@@ -1,7 +1,7 @@
 {
   "name": "BoardroomMain",
   "version": "1.0.0",
-  "description": "Boardroom RTC sample application to show off the OpenTok API and platform capabilities ",
+  "description": "Boardroom Basic sample application to show off the WebRTC and platform capabilities ",
   "main": "server.js",
   "engines": {
     "node": "4.8.x",
