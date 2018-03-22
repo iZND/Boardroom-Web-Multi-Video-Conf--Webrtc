@@ -18,7 +18,7 @@
   "content_scripts": [ {
    "js": [ "content-script.js" ],
    "all_frames": true,
-   "matches": ["https://demo.boardroom.work/*", "https://boardroom2.herokuapp.com/*", "http://www.boardroom.work/*"]
+   "matches": ["https://demo.boardroom.work/*", "https://boardroom-demo-basic.herokuapp.com/*", "http://www.boardroom.work/*"]
   }],
   "icons": {
     "16": "logo16.png",
