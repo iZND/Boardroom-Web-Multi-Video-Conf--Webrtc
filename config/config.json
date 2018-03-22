@@ -8,19 +8,19 @@
       "authSecret":"raFPVfSIR6s48MijtEiFYBCYxmTXNGULhsgZ9Qzi"
    },
    "Archiving":{
-      "enabled":true,
+      "enabled":false,
       "archiveManager":{
-         "enabled":true
+         "enabled":false
       }
    },
    "Feedback":{
       "enabled":true
    },
    "Screensharing":{
-      "enabled":true,
+      "enabled":false,
       "chromeExtensionId": "idjdegcicoappochknpcmenkffgddgig",
       "annotations":{
-         "enabled":true
+         "enabled":false
       }
    }
 }
