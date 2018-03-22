@@ -1,6 +1,6 @@
 {
   "name": "Boardroommain",
-  "description": "Boardroom RTC sample application to show off the OpenTok API and platform capabilities ",
+  "description": "Boardroom Basic sample application to show off the WebRTC and platform capabilities ",
   "keywords": [
     "WebRTC",
     "HTML5",
