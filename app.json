@@ -1,13 +1,13 @@
 {
   "name": "Boardroommain",
-  "description": "Boardroom Basic sample application to show off the WebRTC and platform capabilities ",
+  "description": "Boardroom Connect Video Conference with Basic / Limited features ",
   "keywords": [
     "WebRTC",
     "HTML5",
     "productivity"
   ],
-  "website": "https://demo.boardroom.work",
-  "repository": "https://github.com/iZNDGroup/Boardroom-Web-Multi-Video-Conf--Webrtc.git",
+  "website": "https://connect.boardroom.work",
+  "repository": "https://github.com/iZND/Boardroom-WebRTC-Basic.git",
   "logo": "http://www.google.com/a/cpanel/izndgroup.com/images/logo.gif",
   "success_url": "/",
   "scripts": {
